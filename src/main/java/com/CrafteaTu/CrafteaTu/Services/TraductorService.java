@@ -23,5 +23,6 @@ public class TraductorService {
 
 class ResponseData{
     public String translatedtext;
+    
 }
 

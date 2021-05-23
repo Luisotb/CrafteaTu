@@ -11,6 +11,7 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 public class DoragonBallModel {
+    
     @Entity
     @Table(name = "Dragon_Ball")
 
